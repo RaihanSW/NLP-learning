@@ -1,1 +1,2 @@
+before starting the program via ipnyb, please copy this in your cmd to download tensorflow ver 1.15 . it is used for tensorflow-hub. maybe higher version can be used too
 !pip install -r requirements.txt
